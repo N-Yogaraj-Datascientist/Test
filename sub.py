@@ -1,6 +1,6 @@
 #input
-a=10
-b=200
+a=10000
+b=20000
 
 #logic
 res=a-b
