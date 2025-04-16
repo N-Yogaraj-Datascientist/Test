@@ -22,7 +22,6 @@ data = {
 df = pd.DataFrame(data)
 
 st.title("Dataset by N yogaraj")
-df
 
 
 # Split the dataset into features and target variable
